@@ -7,7 +7,7 @@
 - **style** – úprava vzhledu kódu (CSS, formátování)
 - **refactor** – přepsání kódu bez změny chování
 - **docs** – dokumentace
-- **chore** – údržba a konfiguracja
+- **chore** – údržba a konfigurace
 
 ### Příklady commitů
 
