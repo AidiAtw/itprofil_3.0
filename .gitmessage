@@ -1,0 +1,12 @@
+# <type>(<scope>): <subject>
+#
+# <body>
+#
+# <footer>
+#
+# Pravidla:
+# - type: feat, fix, docs, style, refactor, chore, test, perf
+# - scope: součást projektu (volitelné)
+# - subject: krátký popis (malé písmeno, bez tečky, max 50 znaků)
+# - body: detailnější popis (volitelné)
+# - footer: breaking changes, issue references (volitelné)
